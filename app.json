@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "tc_caffee_app",
-    "slug": "tc_caffee_app",
+    "name": "YayiCaffee_Shop",
+    "slug": "YayiCaffee_Shop",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -34,7 +34,8 @@
             "imageWidth": 76
           }
         }
-      ]
+      ],
+      "expo-font"
     ],
     "experiments": {
       "typedRoutes": true,

@@ -16,5 +16,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "src/theme/colors.js", "src/constants/theme.js", "src/app/index.jsx", "src/app/_layout.jsx"  ]
 }
